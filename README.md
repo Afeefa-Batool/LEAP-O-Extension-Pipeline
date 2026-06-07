@@ -1,6 +1,8 @@
 # LEAP-O Extension Pipeline
-![Alternative Text](workflow image.png)
 
+<p align="center">
+  <img src="workflow image.png" alt="MediMate Overview" width="20%"/>
+</p>
 ### One-Page Project Description
 
 **Inspired by:** [LEAP-O: Learning to Predict Dynamic Obstacles for Safe Trajectory Planning](https://par.nsf.gov/biblio/10670472)  
