@@ -1,7 +1,7 @@
 # LEAP-O Extension Pipeline
 
 <p align="center">
-  <img src="workflow image.png" alt="MediMate Overview" width="20%"/>
+  <img src="workflow image.png" alt="MediMate Overview" width="100%"/>
 </p>
 ### One-Page Project Description
 
